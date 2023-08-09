@@ -7,6 +7,8 @@ After all data entries are finished, the program finds and prints on the screen 
 <div align = "center">
   
 **Example Output**
+<br>
+<br>
 
 | Graduated High School Type | Student Ratio | Average High School Grade |
 |:--------------------------:|:-------------:|:-------------------------:|
