@@ -4,6 +4,7 @@ It is a program that receives data from the user about the placement order of ea
 
 After all data entries are finished, the program finds and prints on the screen the percentages (%) of students graduating from each high school type and their high school graduation grade averages, as well as the distribution (numbers) of the students in the department according to their order of preference for the department and the 5 thousandths of the success ranks based on placement.
 <br>
+<br>
 <div align = "center">
   
 **Example Output**
