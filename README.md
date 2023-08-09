@@ -34,5 +34,6 @@ After all data entries are finished, the program finds and prints on the screen 
 |        24        |  2  |  5  |  19 | ... |  60 |
 
 </div>
-
+<br>
+<br>
 **NOTE:** To run the program, you just need to download the zip file from Releases and run the exe file in Console.
