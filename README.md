@@ -36,4 +36,5 @@ After all data entries are finished, the program finds and prints on the screen 
 </div>
 <br>
 <br>
+
 **NOTE:** To run the program, you just need to download the zip file from Releases and run the exe file in Console.
