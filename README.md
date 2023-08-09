@@ -18,6 +18,7 @@ After all data entries are finished, the program finds and prints on the screen 
 |             ...            |      ...      |            ...            |
 |             ...            |      ...      |            ...            |
 
+<br>
 
 | Preference Order |  P1 |  P2 |  P3 | ... |  P8 |
 |:----------------:|:---:|:---:|:---:|:---:|:---:|
