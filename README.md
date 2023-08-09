@@ -6,7 +6,7 @@ After all data entries are finished, the program finds and prints on the screen 
 <br>
 <div align = "center">
 **Example Output**
-<br>
+
 | Graduated High School Type | Student Ratio | Average High School Grade |
 |:--------------------------:|:-------------:|:-------------------------:|
 |     Meslek High School     |     5.00 %    |           89.98           |
@@ -16,8 +16,8 @@ After all data entries are finished, the program finds and prints on the screen 
 |       Fen High School      |    13.25 %    |           90.99           |
 |             ...            |      ...      |            ...            |
 |             ...            |      ...      |            ...            |
-<br>
-<br>
+
+
 | Preference Order |  P1 |  P2 |  P3 | ... |  P8 |
 |:----------------:|:---:|:---:|:---:|:---:|:---:|
 |         1        |  0  |  0  |  1  | ... | 123 |
@@ -26,6 +26,6 @@ After all data entries are finished, the program finds and prints on the screen 
 |        ...       | ... | ... | ... | ... | ... |
 |        ...       | ... | ... | ... | ... | ... |
 |        24        |  2  |  5  |  19 | ... |  60 |
-<br>
+
 </div>
 **NOTE: **To run the program, you just need to download the zip file from Releases and run the exe file in Console.
